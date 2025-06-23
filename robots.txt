@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.ftaesp.es/sitemap.xml
+
+# Información adicional
+# Crawl-delay: 1
+# Host: www.ftaesp.es
